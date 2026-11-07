@@ -1,4 +1,4 @@
-![The OSI Model: Seven Layers Explained](01%20_%20OSI%20Model.png)
+![The OSI Model: Seven Layers Explained](../00-visual-guides/01%20_%20OSI%20Model.png)
 
 # 01 — The OSI Model: Seven Layers Explained
 
