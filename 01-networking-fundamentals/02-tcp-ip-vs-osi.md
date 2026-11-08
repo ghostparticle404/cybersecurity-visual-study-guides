@@ -1,4 +1,4 @@
-![Comparison of the seven-layer OSI reference model and four-layer TCP/IP model](../00-visual-guides/TCP_IP-vs.-OSI_TwoMaps_Same%20Network.png)
+![Comparison of the seven-layer OSI reference model and four-layer TCP/IP model](../00-visual-guides/01.02.TCP_IP-vs.-OSI_TwoMaps_Same%20Network.png)
 
 # 02 — TCP/IP vs. OSI: How the Models Compare
 
